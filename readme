@@ -1,0 +1,24 @@
+
+Chatbot em JavaScript
+Este é um simples projeto de chatbot desenvolvido em JavaScript, HTML e CSS. O chatbot fornece uma interface de usuário interativa para comunicação com um assistente virtual.
+
+Funcionalidades
+Toggle do Chatbot: Um botão na interface permite abrir e fechar o chatbot.
+Mensagens de Entrada: A interface inicializa com uma mensagem de boas-vindas do chatbot.
+Entrada de Mensagens: Os usuários podem digitar mensagens na caixa de texto e enviá-las ao pressionar o botão "send".
+Design Responsivo: O layout é projetado para se ajustar a diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos móveis e desktop.
+Tecnologias Utilizadas
+HTML: Linguagem de marcação para estruturação da página.
+CSS: Folha de estilo para design e layout da interface.
+JavaScript: Linguagem de programação para a lógica do chatbot e interações do usuário.
+Estrutura do Projeto
+index.html: Contém a estrutura HTML da página, incluindo o layout do chatbot e a referência aos arquivos de estilo e script.
+style.css: Arquivo de estilo que define a aparência visual do chatbot.
+script.js: Arquivo JavaScript que contém a lógica do chatbot, como a exibição de mensagens, manipulação de eventos e interações do usuário.
+Fontes Externas
+Google Fonts: Fornece fontes para os ícones usados na interface.
+Como Usar
+Faça o download dos arquivos.
+Abra o arquivo index.html em um navegador web.
+Interaja com o chatbot, digitando mensagens na caixa de texto.
+Nota: Este é um projeto simples e pode ser expandido com mais recursos, como reconhecimento de voz, integração com APIs de processamento de linguagem natural, entre outros.
